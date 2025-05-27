@@ -1,5 +1,5 @@
 # this is my project
-first one change 2
+my first one change 2
 ## small headline
 need to add bullet point
 - Bullet point 1
